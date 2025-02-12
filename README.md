@@ -25,10 +25,16 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Israil445&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israil445&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Israil445&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israil445&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 
 ---
