@@ -26,7 +26,7 @@
 ## 🚀 About Me  
 
 - 🔥 Passionate about **coding, problem-solving, and open-source contributions**  
-- 💻 Love working with **Python, JavaScript, C++, and more**  
+- 💻 Love working with **Python, Java, C++, and more**  
 - 📚 Currently exploring **Machine Learning & AI**  
 - 🎯 Active in **LeetCode, Codeforces, and HackerRank**  
 - 🌱 Always learning and experimenting with new technologies  
