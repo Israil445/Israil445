@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Israil445&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israil445&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Israil445&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israil445&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 📊 Metrics & Profile Views  
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Israil445" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Israil445&theme=tokyonight" alt="GitHub Profile Summary" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Israil445&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
