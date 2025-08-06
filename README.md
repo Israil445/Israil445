@@ -9,8 +9,8 @@
 - Currently working on `Signal Processing`, `Machine Learning`, `Deep Learning` & `Large Language Models(LLMs)`
 - Ask me about: `Java`, `Python`, `Tensorflow`, `Pytorch` & `Electroencephalography(EEG)`
 - Reach me at: **israilcseru28@gmail.com**
-- [View My Resume](https://drive.google.com/file/d/1UJ_lKSv0x0AGNW8ZVEbl3D80pofXY5zp/view?usp=sharing)
----
+  
+
 
 ### 📝 Published Papers
 - [Seizure Detection from EEG Signals Using Low Dimensional Convolutional Neural Network](https://ucics.org/ucics2025/Seizure%20Detection%20from%20EEG%20Signals%20Using%20Low%20Dimensional%20Convolutional%20Neural%20Network) 
@@ -57,7 +57,6 @@
   </a>
 </p>
 
----
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israil445/) 
