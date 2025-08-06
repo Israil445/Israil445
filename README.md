@@ -1,68 +1,71 @@
-### Hi there 👋, I'm Israil  
+<!-- Typing SVG animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=00F7FF&width=800&lines=👋+Hi%2C+I'm+Md+Israil+Hosen;)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/israil445/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="40">
+---
+
+### 👨‍💻 About Me
+- Undergraduate student in the [Department of Computer Science & Engineering at the University of Rajshahi](https://www.ru.ac.bd/).
+- `Brain Computer Interface(BCI) Researcher`
+- Currently working on `Signal Processing`, `Machine Learning`, `Deep Learning` & `Large Language Models(LLMs)`
+- Ask me about: `Java`, `Python`, `Tensorflow`, `Pytorch` & `Electroencephalography(EEG)`
+- Reach me at: **israilcseru28@gmail.com**
+- [View My Resume](https://drive.google.com/file/d/1UJ_lKSv0x0AGNW8ZVEbl3D80pofXY5zp/view?usp=sharing)
+---
+
+### 📝 Published Papers
+- [Seizure Detection from EEG Signals Using Low Dimensional Convolutional Neural Network](https://ucics.org/ucics2025/Seizure%20Detection%20from%20EEG%20Signals%20Using%20Low%20Dimensional%20Convolutional%20Neural%20Network) 
+- [Artifacts Suppression from EEG Signal using Sub-band Thresholding Approach](https://ucics.org/ucics2025/Artifact%20Suppression%20from%20EEG%20Signal%20Using%20Sub-band%20Thresholding%20Approach)
+---
+
+### 🛠️ Languages and Tools  
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://github.com/Israil445">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/19773027/israil">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" height="40">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://www.quora.com/profile/Md-Israil-Hosen-2">
-    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494531.png" alt="Quora" height="40">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://t.me/Israil445">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="40">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.facebook.com/md.israilhosen.927">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670124.png" alt="Facebook" height="40">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<table>
-  <tr>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Israil445&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-    </td>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israil445&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-    </td>
-  </tr>
-</table>
-
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israil445/) 
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31225608/israil445) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=CojVbxQAAAAJ&authuser=1) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1693-8466)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Israil445/)
 
 ---
 
-## 🔥 Contribution & Streak  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israil445&theme=nightowl&fire=pink&currStreakNum=2FD3EB&sideLabels=F00" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israil445&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 📊 Metrics & Profile Views  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Israil445&theme=tokyonight" alt="GitHub Profile Summary" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Israil445&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
-⭐ **Feel free to explore my repositories and contribute!** 🚀  
