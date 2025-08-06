@@ -7,7 +7,6 @@
 - Undergraduate student in the [Department of Computer Science & Engineering at the University of Rajshahi](https://www.ru.ac.bd/).
 - `Brain Computer Interface(BCI) Researcher`
 - Currently working on `Signal Processing`, `Machine Learning`, `Deep Learning` & `Large Language Models(LLMs)`
-- Ask me about: `Java`, `Python`, `Tensorflow`, `Pytorch` & `Electroencephalography(EEG)`
 - Reach me at: **israilcseru28@gmail.com**
   
 
