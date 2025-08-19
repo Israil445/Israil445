@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - Undergraduate student in the [Department of Computer Science & Engineering at the University of Rajshahi](https://www.ru.ac.bd/).
 - Brain Computer Interface (BCI) Researcher
-- Currently working on `Signal Processing`, `Machine Learning`, `Deep Learning` & `Large Language Models(LLMs)`
+- Currently working on Signal Processing, Machine Learning & Deep Learning
 - Reach me at: **israilcseru28@gmail.com**
   
 
